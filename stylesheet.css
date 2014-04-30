@@ -1,0 +1,172 @@
+* {
+	margin: auto;
+    font-family: Segoe UI, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    font-family: Segoe UI, sans-serif;
+ text-decoration: none;
+    color: white;
+}
+
+#header {
+	height: px;
+	width: 530px;
+    margin-bottom: 0px;
+    background-color: black;
+}
+
+#headertext {
+    font-size: 1.3em;
+    font-family: Segoe UI, sans-serif;
+    color: white;
+    margin-left: 5px;
+}
+
+.righthead {
+    float: right;
+    position: relative;
+    font-family: Segoe UI Light, sans-serif;
+    margin-right: 5px;
+}
+
+#mainsection {
+    width: 530px;
+    height: 800px;
+    margin: auto;
+    background-color: black;
+}
+
+#row1 {
+    width: 530px;
+    height: 120px;
+    margin-top: 20px;
+    float: left;
+}
+
+#row2 {
+    width: 530px;
+    height: 240px;
+    float: left;
+}
+
+#row3 {
+    width: 530px;
+    height: 240px;
+    float: left;
+}
+
+#row4 {
+    width: 530px;
+    height: 125px;
+    float: left;
+}
+
+.sq1 {
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 40px;
+    float: left;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+    
+}
+
+.sq2 {
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 5px;
+    float: left;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+    
+}
+
+.sq3 {
+    width: 215px;
+    height: 220px;
+    margin: 10px 10px 10px 40px;
+    float: left;
+    clear: both;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+    
+}
+.sq4 {
+    width: 445px;
+    height: 220px;
+    margin: 10px 10px 10px 40px;
+    float: left;
+    clear: both;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+    
+}
+
+.sq5 {
+    width: 215px;
+    height: 100px;
+    margin: 10px 10px 10px 5px;
+    float: left;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+}   
+
+.sq6 {
+    width: 330px;
+    height: 100px;
+    margin: 10px 10px 10px 40px;
+    float: left;
+    color: white;
+    background-color: #009edb;
+    font-size: 2em;
+}   
+
+.nametext {
+ font-size: 1.07em;
+    margin: 25px 0px 5px 10px;
+}
+
+.ypic {
+    margin: 8px;
+}
+
+.icon {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+
+
+.boxp {
+    font-size: 0.5em;
+    text-align: center;
+    display: block;
+    margin-top: -5px;
+}
+
+
+.mainh {
+    font-size: 1.1em;
+    margin: 5px;
+}
+
+.mainp {
+    font-size: 0.5em;
+    margin: 0px 0px 0px 5px;
+}
+
+.emailtext {
+ font-size: 0.7em;
+    margin: 32px 0px 5px 10px;
+}
+
